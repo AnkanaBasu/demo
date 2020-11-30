@@ -1,1 +1,2 @@
 new demo txt file
+Updated demo.txt in example
