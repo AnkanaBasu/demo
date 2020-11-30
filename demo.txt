@@ -1,2 +1,2 @@
-new demo txt file
+new demo Ankana CTS Notepad has been modified
 Updated demo.txt in example
